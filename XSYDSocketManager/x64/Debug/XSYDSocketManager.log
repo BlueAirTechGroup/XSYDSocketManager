@@ -1,0 +1,16 @@
+﻿  main.cpp
+  XSYDSocketManager.cpp
+c:\users\david\onedrive\projects\vs\xsydsocketmanager\xsydsocketmanager\xsydsocketmanager.cpp(151): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\david\onedrive\projects\vs\xsydsocketmanager\xsydsocketmanager\xsydsocketmanager.cpp(193): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\david\onedrive\projects\vs\xsydsocketmanager\xsydsocketmanager\xsydsocketmanager.cpp(194): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\david\onedrive\projects\vs\xsydsocketmanager\xsydsocketmanager\xsydsocketmanager.cpp(64): warning C4101: “TempIps”: 未引用的局部变量
+c:\users\david\onedrive\projects\vs\xsydsocketmanager\xsydsocketmanager\xsydsocketmanager.cpp(425): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\david\onedrive\projects\vs\xsydsocketmanager\xsydsocketmanager\xsydsocketmanager.cpp(463): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\david\onedrive\projects\vs\xsydsocketmanager\xsydsocketmanager\xsydsocketmanager.cpp(465): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\david\onedrive\projects\vs\xsydsocketmanager\xsydsocketmanager\xsydsocketmanager.cpp(466): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\david\onedrive\projects\vs\xsydsocketmanager\xsydsocketmanager\xsydsocketmanager.cpp(565): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\david\onedrive\projects\vs\xsydsocketmanager\xsydsocketmanager\xsydsocketmanager.cpp(590): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  XSYDMultiThread.cpp
+  正在生成代码...
+  XSYDSocketManager.vcxproj -> C:\Users\david\OneDrive\Projects\VS\XSYDSocketManager\x64\Debug\XSYDSocketManager.exe
+  XSYDSocketManager.vcxproj -> C:\Users\david\OneDrive\Projects\VS\XSYDSocketManager\x64\Debug\XSYDSocketManager.pdb (Partial PDB)
